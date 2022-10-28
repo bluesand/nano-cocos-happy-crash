@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f4d522e4-294e-4993-bd38-307bc7995db9",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f4d522e4-294e-4993-bd38-307bc7995db9@6c48a",
+      "displayName": "commonButton03",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "f4d522e4-294e-4993-bd38-307bc7995db9",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "f4d522e4-294e-4993-bd38-307bc7995db9@f9941",
+      "displayName": "commonButton03",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "importer": "sprite-frame",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 249,
+        "height": 99,
+        "rawWidth": 249,
+        "rawHeight": 99,
+        "borderTop": 42,
+        "borderBottom": 48,
+        "borderLeft": 85,
+        "borderRight": 84,
+        "imageUuidOrDatabaseUri": "f4d522e4-294e-4993-bd38-307bc7995db9@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "f4d522e4-294e-4993-bd38-307bc7995db9@f9941"
+  }
+}

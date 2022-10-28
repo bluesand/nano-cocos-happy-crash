@@ -1,0 +1,124 @@
+{
+  "ver": "1.0.0",
+  "importer": "label-atlas",
+  "imported": true,
+  "uuid": "b6d2e89e-7ba9-45d6-b89b-56589b669c98",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "itemWidth": 25.3,
+    "itemHeight": 28,
+    "fontSize": 24.64,
+    "startChar": "0",
+    "spriteFrameUuid": "36a424aa-44e4-4de7-b440-a56ba612f146@f9941",
+    "_fntConfig": {
+      "commonHeight": 28,
+      "fontSize": 24,
+      "atlasName": "numbertarget",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "49": {
+          "rect": {
+            "x": 25.3,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "50": {
+          "rect": {
+            "x": 50.6,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "51": {
+          "rect": {
+            "x": 75.9,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "52": {
+          "rect": {
+            "x": 101.2,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "53": {
+          "rect": {
+            "x": 126.5,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "54": {
+          "rect": {
+            "x": 151.8,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "55": {
+          "rect": {
+            "x": 177.10000000000002,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        },
+        "56": {
+          "rect": {
+            "x": 202.40000000000003,
+            "y": 0,
+            "width": 25.3,
+            "height": 28
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 25.3
+        }
+      },
+      "kerningDict": {}
+    }
+  }
+}

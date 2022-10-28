@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "13abaec3-dfd4-4456-a625-3dd8fdbc6cbe",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "13abaec3-dfd4-4456-a625-3dd8fdbc6cbe@6c48a",
+      "displayName": "homeLightBar01",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "13abaec3-dfd4-4456-a625-3dd8fdbc6cbe",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "13abaec3-dfd4-4456-a625-3dd8fdbc6cbe@f9941",
+      "displayName": "homeLightBar01",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "importer": "sprite-frame",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 136,
+        "height": 34,
+        "rawWidth": 136,
+        "rawHeight": 34,
+        "borderTop": 10,
+        "borderBottom": 16,
+        "borderLeft": 41,
+        "borderRight": 34,
+        "imageUuidOrDatabaseUri": "13abaec3-dfd4-4456-a625-3dd8fdbc6cbe@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "13abaec3-dfd4-4456-a625-3dd8fdbc6cbe@f9941"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "40b7dac4-534d-4b5c-ad50-6f472cd7ef10",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "40b7dac4-534d-4b5c-ad50-6f472cd7ef10@6c48a",
+      "displayName": "commonRectangle08",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "40b7dac4-534d-4b5c-ad50-6f472cd7ef10",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "40b7dac4-534d-4b5c-ad50-6f472cd7ef10@f9941",
+      "displayName": "commonRectangle08",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "importer": "sprite-frame",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 606,
+        "height": 755,
+        "rawWidth": 606,
+        "rawHeight": 755,
+        "borderTop": 137,
+        "borderBottom": 128,
+        "borderLeft": 92,
+        "borderRight": 88,
+        "imageUuidOrDatabaseUri": "40b7dac4-534d-4b5c-ad50-6f472cd7ef10@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "40b7dac4-534d-4b5c-ad50-6f472cd7ef10@f9941"
+  }
+}

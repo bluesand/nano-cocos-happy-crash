@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "dfd20df7-20e0-4ebe-a30f-9536d5551cf6",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "dfd20df7-20e0-4ebe-a30f-9536d5551cf6@6c48a",
+      "displayName": "commontips01",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "dfd20df7-20e0-4ebe-a30f-9536d5551cf6",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "dfd20df7-20e0-4ebe-a30f-9536d5551cf6@f9941",
+      "displayName": "commontips01",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "importer": "sprite-frame",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0.5,
+        "offsetY": -0.5,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 307,
+        "height": 45,
+        "rawWidth": 308,
+        "rawHeight": 46,
+        "borderTop": 19,
+        "borderBottom": 21,
+        "borderLeft": 144,
+        "borderRight": 154,
+        "imageUuidOrDatabaseUri": "dfd20df7-20e0-4ebe-a30f-9536d5551cf6@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "dfd20df7-20e0-4ebe-a30f-9536d5551cf6@f9941"
+  }
+}
