@@ -1,10 +1,13 @@
 {
   "options": {
     "android": {
-      "packageName": "",
-      "apiLevel": "android-26",
+      "packageName": "cc.bytematrix.happycrush",
+      "apiLevel": "android-33",
       "appABIs": [
-        "arm64-v8a"
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
       ],
       "useDebugKeystore": true,
       "keystorePath": "",
@@ -15,10 +18,10 @@
       "androidInstant": false,
       "remoteUrl": "",
       "orientation": {
-        "portrait": false,
+        "portrait": true,
         "upsideDown": false,
-        "landscapeRight": true,
-        "landscapeLeft": true
+        "landscapeRight": false,
+        "landscapeLeft": false
       },
       "renderBackEnd": {
         "vulkan": false,

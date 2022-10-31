@@ -10,7 +10,8 @@
     "outputName": "android",
     "mainBundleCompressionType": "merge_dep",
     "platform": "android",
-    "startScene": "ccd8a281-dceb-4daf-af98-a6429d9fd772"
+    "startScene": "ccd8a281-dceb-4daf-af98-a6429d9fd772",
+    "name": "HappyCrush"
   },
   "BuildTaskManager": {
     "taskMap": {
@@ -121,6 +122,93 @@
           }
         },
         "time": "9-1-2022 15:16",
+        "dirty": false
+      },
+      "1667181548429": {
+        "id": "1667181548429",
+        "progress": 1,
+        "state": "success",
+        "message": "10-31-2022 10:07 make package /Users/one/gamespace/cocos-happy-crush/build/android success!",
+        "options": {
+          "name": "HappyCrush",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ccd8a281-dceb-4daf-af98-a6429d9fd772",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/fight.scene",
+              "uuid": "2680a995-9110-4802-ab52-9bcb75f661d0",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/login.scene",
+              "uuid": "ccd8a281-dceb-4daf-af98-a6429d9fd772",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/pve.scene",
+              "uuid": "3e5c7c2f-6a88-4819-8368-5bbe7190f2a2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "cc.bytematrix.happycrush",
+              "apiLevel": "android-33",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a",
+                "x86",
+                "x86_64"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "orientation": {
+                "portrait": true,
+                "upsideDown": false,
+                "landscapeRight": false,
+                "landscapeLeft": false
+              },
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": false
+              }
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "0fDFwqguZMH7xAkB",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "taskFlow"
+            },
+            "cocos-service": {
+              "configID": "c49791",
+              "services": []
+            }
+          }
+        },
+        "time": "10-31-2022 10:02",
         "dirty": false
       }
     }
