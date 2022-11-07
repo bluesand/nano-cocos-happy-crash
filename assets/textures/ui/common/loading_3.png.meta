@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "19e92deb-3147-40e3-81cc-e70310381e2d",
+  "uuid": "ab365ecd-3c3e-4b5a-a42d-747b53616b4a",
   "files": [
     ".png",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "19e92deb-3147-40e3-81cc-e70310381e2d@6c48a",
-      "displayName": "icon_music1",
+      "uuid": "ab365ecd-3c3e-4b5a-a42d-747b53616b4a@6c48a",
+      "displayName": "loading_3",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "19e92deb-3147-40e3-81cc-e70310381e2d"
+        "imageUuidOrDatabaseUri": "ab365ecd-3c3e-4b5a-a42d-747b53616b4a"
       },
       "ver": "1.0.21",
       "imported": true,
@@ -33,8 +33,8 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "19e92deb-3147-40e3-81cc-e70310381e2d@f9941",
-      "displayName": "icon_music1",
+      "uuid": "ab365ecd-3c3e-4b5a-a42d-747b53616b4a@f9941",
+      "displayName": "loading_3",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
@@ -45,17 +45,17 @@
         "offsetY": 0,
         "trimX": 0,
         "trimY": 0,
-        "width": 81,
-        "height": 94,
-        "rawWidth": 81,
-        "rawHeight": 94,
+        "width": 90,
+        "height": 96,
+        "rawWidth": 90,
+        "rawHeight": 96,
         "borderTop": 0,
         "borderBottom": 0,
         "borderLeft": 0,
         "borderRight": 0,
         "packable": true,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "19e92deb-3147-40e3-81cc-e70310381e2d@6c48a",
+        "imageUuidOrDatabaseUri": "ab365ecd-3c3e-4b5a-a42d-747b53616b4a@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.9",
@@ -69,6 +69,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "sprite-frame",
-    "redirect": "19e92deb-3147-40e3-81cc-e70310381e2d@f9941"
+    "redirect": "ab365ecd-3c3e-4b5a-a42d-747b53616b4a@f9941"
   }
 }

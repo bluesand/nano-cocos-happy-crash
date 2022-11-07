@@ -2284,7 +2284,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -39,
+      "x": -44.418,
       "y": 10.928,
       "z": 0
     },
@@ -2435,7 +2435,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -18.7,
+      "x": -24.118,
       "y": 3.917,
       "z": 0
     },
@@ -2486,14 +2486,17 @@
     "_string": "9999",
     "_horizontalAlign": 0,
     "_verticalAlign": 0,
-    "_actualFontSize": 28,
-    "_fontSize": 28,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 35,
     "_overflow": 0,
     "_enableWrapText": true,
-    "_font": null,
-    "_isSystemFontUsed": true,
+    "_font": {
+      "__uuid__": "26d5de96-dcdc-43c8-bce7-cfc5dc95d7c3",
+      "__expectedType__": "cc.LabelAtlas"
+    },
+    "_isSystemFontUsed": false,
     "_isItalic": false,
     "_isBold": false,
     "_isUnderline": false,
@@ -2536,8 +2539,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 62.29,
-      "height": 44.1
+      "width": 82.22,
+      "height": 35
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",

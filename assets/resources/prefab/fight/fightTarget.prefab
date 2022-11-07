@@ -715,7 +715,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": 0.961,
       "z": 0
     },
     "_lrot": {
@@ -770,7 +770,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "f28100d8-02b9-48ec-ad91-e3af3ea0bbae",
+      "__uuid__": "9c4b9f29-8bb3-4fed-99e0-4262d9e6e22d",
       "__expectedType__": "cc.LabelAtlas"
     },
     "_isSystemFontUsed": false,
@@ -812,7 +812,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 53.51,
+      "width": 55.71,
       "height": 40
     },
     "_anchorPoint": {

@@ -124,11 +124,11 @@
         "time": "9-1-2022 15:16",
         "dirty": false
       },
-      "1667181548429": {
-        "id": "1667181548429",
+      "1667629292847": {
+        "id": "1667629292847",
         "progress": 1,
         "state": "success",
-        "message": "10-31-2022 10:07 make package /Users/one/gamespace/cocos-happy-crush/build/android success!",
+        "message": "11-5-2022 14:29 make package /Users/one/gamespace/cocos-happy-crush/build/android success!",
         "options": {
           "name": "HappyCrush",
           "platform": "android",
@@ -164,13 +164,13 @@
           "outputName": "android",
           "packages": {
             "android": {
-              "packageName": "cc.bytematrix.happycrush",
+              "packageName": "cc.bytematrix.happcrush",
               "apiLevel": "android-33",
               "appABIs": [
                 "arm64-v8a",
-                "armeabi-v7a",
                 "x86",
-                "x86_64"
+                "x86_64",
+                "armeabi-v7a"
               ],
               "useDebugKeystore": true,
               "keystorePath": "",
@@ -197,7 +197,7 @@
                 "asyncFunctions": true
               },
               "encrypted": false,
-              "xxteaKey": "0fDFwqguZMH7xAkB",
+              "xxteaKey": "2dGB/sN01EdLbqJI",
               "compressZip": false,
               "makeAfterBuild": false,
               "JobSystem": "taskFlow"
@@ -208,7 +208,7 @@
             }
           }
         },
-        "time": "10-31-2022 10:02",
+        "time": "11-5-2022 14:21",
         "dirty": false
       }
     }

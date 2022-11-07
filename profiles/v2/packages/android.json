@@ -1,13 +1,13 @@
 {
   "options": {
     "android": {
-      "packageName": "cc.bytematrix.happycrush",
+      "packageName": "cc.bytematrix.happcrush",
       "apiLevel": "android-33",
       "appABIs": [
         "arm64-v8a",
-        "armeabi-v7a",
         "x86",
-        "x86_64"
+        "x86_64",
+        "armeabi-v7a"
       ],
       "useDebugKeystore": true,
       "keystorePath": "",
