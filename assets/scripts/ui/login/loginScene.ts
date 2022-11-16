@@ -17,7 +17,7 @@ export class LoginScene extends Component {
     isLoadCsvFinishd: any = false;
 
     onLoad() {
-        i18n.init('zh');
+        i18n.init('en');
 
         profiler.hideStats();
 

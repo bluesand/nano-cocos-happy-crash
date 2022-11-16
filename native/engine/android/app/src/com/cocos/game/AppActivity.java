@@ -27,11 +27,14 @@ package com.cocos.game;
 import android.os.Bundle;
 import android.content.Intent;
 import android.content.res.Configuration;
+import android.util.Log;
 
 import com.cocos.service.SDKWrapper;
 import com.cocos.lib.CocosActivity;
 
+
 public class AppActivity extends CocosActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +49,7 @@ public class AppActivity extends CocosActivity {
         }
         // DO OTHER INITIALIZATION BELOW
         SDKWrapper.shared().init(this);
+
 
     }
 
@@ -129,5 +133,10 @@ public class AppActivity extends CocosActivity {
     public void onLowMemory() {
         SDKWrapper.shared().onLowMemory();
         super.onLowMemory();
+    }
+
+
+    public static void showPayDialog(){
+        Log.e("Matrix", "[showPayDialog]");
     }
 }
