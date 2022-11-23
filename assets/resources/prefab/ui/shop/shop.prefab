@@ -3715,16 +3715,15 @@
       "b": 124,
       "a": 255
     },
-    "_normalSprite": {
-      "__uuid__": "3a28c10e-0dac-4d4e-a3a9-72cab9c3a082@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_normalSprite": null,
     "_hoverSprite": null,
     "_pressedSprite": null,
     "_disabledSprite": null,
     "_duration": 0.1,
     "_zoomScale": 1.2,
-    "_target": null,
+    "_target": {
+      "__id__": 165
+    },
     "isPreventSecondClick": false,
     "preventTime": 2,
     "isPlaySound": true,
@@ -5428,7 +5427,7 @@
       "__id__": 167
     },
     "sfReceive": {
-      "__uuid__": "4e10937e-4b30-4ff2-81ed-e11f32c2c671@f9941",
+      "__uuid__": "0f96fff5-a763-4492-a2b7-880d2dcd7e78@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "sfShare": {
