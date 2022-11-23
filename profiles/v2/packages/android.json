@@ -1,13 +1,10 @@
 {
   "options": {
     "android": {
-      "packageName": "cc.bytematrix.happycrash",
-      "apiLevel": "android-33",
+      "packageName": "com.bytematrix.happycrash",
+      "apiLevel": "android-31",
       "appABIs": [
-        "arm64-v8a",
-        "x86",
-        "x86_64",
-        "armeabi-v7a"
+        "arm64-v8a"
       ],
       "useDebugKeystore": true,
       "keystorePath": "",

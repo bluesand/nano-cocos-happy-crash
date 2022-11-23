@@ -21,7 +21,7 @@ export class LoginScene extends Component {
 
         profiler.hideStats();
 
-        // sys.localStorage.clear();
+        sys.localStorage.clear();
 
         //初始化音频
         AudioManager.instance.init();

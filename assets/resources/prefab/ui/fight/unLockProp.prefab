@@ -2171,7 +2171,7 @@
     "__type__": "LocalizedSpriteItem",
     "language": "zh",
     "spriteFrame": {
-      "__uuid__": "86012d04-186b-479e-ae8c-b282b513a706@f9941",
+      "__uuid__": "bec18b3a-5dfb-4fe8-9e31-bb3ab712a5f1@f9941",
       "__expectedType__": "cc.SpriteFrame"
     }
   },
@@ -2331,7 +2331,7 @@
   {
     "__type__": "cc.Node",
     "_name": "btnGoStart",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 1
     },
@@ -2397,7 +2397,7 @@
       "__id__": 122
     },
     "_lineHeight": 50,
-    "_string": "<color=#ffffff><u>直接开始<u/></color>",
+    "_string": "<color=#ffffff><u>Start<u/></color>",
     "_horizontalAlign": 0,
     "_fontSize": 30,
     "_maxWidth": 0,
@@ -2652,7 +2652,7 @@
       "__id__": 23
     },
     "sfReceive": {
-      "__uuid__": "4e10937e-4b30-4ff2-81ed-e11f32c2c671@f9941",
+      "__uuid__": "0f96fff5-a763-4492-a2b7-880d2dcd7e78@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "sfAd": {
