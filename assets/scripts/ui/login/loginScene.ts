@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, find, director, profiler, game, Game } from 'cc';
+import { _decorator, Component, Node, find, director, profiler, game, Game, sys } from 'cc';
 import { AudioManager } from '../../frameworks/audioManager';
 import { playerData } from '../../frameworks/playerData';
 import { uiManager } from '../../frameworks/uiManager';
@@ -20,6 +20,8 @@ export class LoginScene extends Component {
         i18n.init('en');
 
         profiler.hideStats();
+
+        // sys.localStorage.clear();
 
         //初始化音频
         AudioManager.instance.init();
