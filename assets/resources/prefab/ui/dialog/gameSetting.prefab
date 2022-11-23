@@ -506,7 +506,7 @@
     "__type__": "LocalizedSpriteItem",
     "language": "en",
     "spriteFrame": {
-      "__uuid__": "157e7f00-2531-49ed-bf0c-09f6756a0d84@f9941",
+      "__uuid__": "71e98335-317e-475a-b4ae-d2b8151350af@f9941",
       "__expectedType__": "cc.SpriteFrame"
     }
   },
@@ -2314,7 +2314,10 @@
       "b": 124,
       "a": 255
     },
-    "_normalSprite": null,
+    "_normalSprite": {
+      "__uuid__": "fabb075d-0f9a-4f3b-a610-cd36c501a7a3@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
     "_hoverSprite": null,
     "_pressedSprite": null,
     "_disabledSprite": null,

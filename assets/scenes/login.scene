@@ -573,7 +573,7 @@
     "__type__": "LocalizedSpriteItem",
     "language": "en",
     "spriteFrame": {
-      "__uuid__": "e748774a-5331-4cb1-a0e1-cd5a53b3a87e@f9941",
+      "__uuid__": "14c3b24a-64b7-46ef-940d-0d1210126019@f9941",
       "__expectedType__": "cc.SpriteFrame"
     }
   },

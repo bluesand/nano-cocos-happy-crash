@@ -3507,7 +3507,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "3倍领取",
+    "_string": "Trible",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 35,
@@ -3560,7 +3560,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 124.47,
+      "width": 86.22,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -3884,7 +3884,7 @@
       "__id__": 196
     },
     "_lineHeight": 40,
-    "_string": "<color=#ffffff><u>普通领取</u></color>",
+    "_string": "<color=#ffffff><u>Receive</u></color>",
     "_horizontalAlign": 0,
     "_fontSize": 30,
     "_maxWidth": 0,

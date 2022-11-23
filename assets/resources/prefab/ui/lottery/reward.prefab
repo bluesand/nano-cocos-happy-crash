@@ -2501,7 +2501,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -2601,7 +2601,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -2888,7 +2888,7 @@
       "__id__": 147
     },
     "_lineHeight": 40,
-    "_string": "<color=#ffffff><u>普通领取</u></c>",
+    "_string": "<color=#ffffff><u>Receive</u></c>",
     "_horizontalAlign": 0,
     "_fontSize": 30,
     "_maxWidth": 0,
@@ -2938,7 +2938,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 120,
+      "width": 108.38,
       "height": 50.4
     },
     "_anchorPoint": {

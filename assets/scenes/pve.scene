@@ -1436,7 +1436,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -4244,7 +4244,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -255,
+      "y": -273,
       "z": 0
     },
     "_lrot": {
@@ -4521,8 +4521,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 104,
-      "height": 104
+      "width": 119,
+      "height": 140
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
