@@ -7,13 +7,68 @@
     "level": 4
   },
   "common": {
-    "outputName": "android",
+    "outputName": "web-mobile",
     "mainBundleCompressionType": "none",
-    "platform": "android",
+    "platform": "web-mobile",
     "startScene": "ccd8a281-dceb-4daf-af98-a6429d9fd772",
-    "name": "HappyCrash-Android"
+    "name": "HappyCrash"
   },
   "BuildTaskManager": {
-    "taskMap": {}
+    "taskMap": {
+      "1669200361306": {
+        "id": "1669200361306",
+        "progress": 1,
+        "state": "success",
+        "message": "11-23-2022 21:33 Build success in 10425 ms!",
+        "options": {
+          "name": "HappyCrash",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "none",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "ccd8a281-dceb-4daf-af98-a6429d9fd772",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/fight.scene",
+              "uuid": "2680a995-9110-4802-ab52-9bcb75f661d0",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/login.scene",
+              "uuid": "ccd8a281-dceb-4daf-af98-a6429d9fd772",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/scenes/pve.scene",
+              "uuid": "3e5c7c2f-6a88-4819-8368-5bbe7190f2a2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "portrait",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "c49791",
+              "services": []
+            }
+          }
+        },
+        "time": "11-23-2022 21:33",
+        "dirty": false
+      }
+    }
   }
 }
