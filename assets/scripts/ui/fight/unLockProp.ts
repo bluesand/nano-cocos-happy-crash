@@ -6,6 +6,7 @@ import { GameLogic } from '../../frameworks/gameLogic';
 import { uiManager } from '../../frameworks/uiManager';
 import { resourceUtil } from '../../frameworks/resourceUtil';
 import { localConfig } from '../../frameworks/localConfig';
+import * as i18n from '../../../../extensions/i18n/assets/LanguageData';
 const { ccclass, property } = _decorator;
 
 @ccclass('UnLockProp')
@@ -67,7 +68,7 @@ export class UnLockProp extends Component {
 
     init() {
         this.lbNum.string = (1).toString();
-        this.lbName.string = this.propItem.name;
+        this.lbName.string = i18n.t('table_prop.' + this.propItem.name)
         resourceUtil.setPropIcon(this.propItem.icon, this.spIcon, () => { });
     }
 
