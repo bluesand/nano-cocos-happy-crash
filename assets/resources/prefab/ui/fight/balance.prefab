@@ -4503,7 +4503,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -25,
+      "x": -9,
       "y": 0,
       "z": 0
     },
@@ -4605,8 +4605,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 137,
-      "height": 62
+      "width": 169,
+      "height": 47
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -4654,8 +4654,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 73.5,
-      "y": 0,
+      "x": 105.765,
+      "y": 5.374,
       "z": 0
     },
     "_lrot": {
@@ -4712,7 +4712,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "592194c4-3031-4fc0-a1f5-d928919aa659",
+      "__uuid__": "27dd8c5f-5b68-4718-a205-ff32df8e8f51",
       "__expectedType__": "cc.LabelAtlas"
     },
     "_isSystemFontUsed": false,
@@ -4758,7 +4758,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 40,
+      "width": 40.53,
       "height": 54
     },
     "_anchorPoint": {

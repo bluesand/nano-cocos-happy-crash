@@ -246,8 +246,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 108,
-      "height": 63
+      "width": 88,
+      "height": 92
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -435,8 +435,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 108,
-      "height": 63
+      "width": 88,
+      "height": 92
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -656,8 +656,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 108,
-      "height": 63
+      "width": 88,
+      "height": 92
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1821,6 +1821,7 @@
     "__type__": "cc.Animation",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 22
     },
@@ -1853,6 +1854,7 @@
     "__type__": "cc.Widget",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 22
     },
@@ -1888,6 +1890,7 @@
     "__type__": "cc.UIOpacity",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 22
     },
@@ -1906,6 +1909,7 @@
     "__type__": "cc.UITransform",
     "_name": "",
     "_objFlags": 0,
+    "__editorExtras__": {},
     "node": {
       "__id__": 22
     },
@@ -2082,7 +2086,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -2736,7 +2740,10 @@
       "b": 124,
       "a": 255
     },
-    "_normalSprite": null,
+    "_normalSprite": {
+      "__uuid__": "44a755b8-17b3-4a79-9e1a-a68be54053f4@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
     "_hoverSprite": null,
     "_pressedSprite": null,
     "_disabledSprite": null,
@@ -2943,7 +2950,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 37.900000000000006,
+      "y": -33.181,
       "z": 0
     },
     "_lrot": {
@@ -4015,7 +4022,7 @@
     "_target": null,
     "_left": 0,
     "_right": 0,
-    "_top": -30.400000000000002,
+    "_top": 40.681,
     "_bottom": 0,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
@@ -4116,7 +4123,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -13.23,
+      "y": 12.093,
       "z": 0
     },
     "_lrot": {
@@ -4184,7 +4191,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": -1.2300000000000004,
+    "_bottom": 24.093,
     "_horizontalCenter": 0,
     "_verticalCenter": -23,
     "_isAbsLeft": true,

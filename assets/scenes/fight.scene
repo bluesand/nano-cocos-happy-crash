@@ -1383,7 +1383,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -236.64,
-      "y": 51.912,
+      "y": 3.061,
       "z": 0
     },
     "_lrot": {
@@ -1688,8 +1688,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 0,
-      "y": -18,
+      "x": -267.982,
+      "y": 64.349,
       "z": 0
     },
     "_lrot": {
@@ -1734,7 +1734,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "0",
+    "_string": "12345",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 40,
@@ -1743,8 +1743,11 @@
     "_lineHeight": 42,
     "_overflow": 0,
     "_enableWrapText": true,
-    "_font": null,
-    "_isSystemFontUsed": true,
+    "_font": {
+      "__uuid__": "2115dfa4-f384-4c9f-9899-fafacde43bec",
+      "__expectedType__": "cc.LabelAtlas"
+    },
+    "_isSystemFontUsed": false,
     "_isItalic": false,
     "_isBold": false,
     "_isUnderline": false,
@@ -1775,8 +1778,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 22.25,
-      "height": 52.92
+      "width": 160,
+      "height": 42
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -2816,7 +2819,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -322.516,
-      "y": 57.959,
+      "y": 2.827,
       "z": 0
     },
     "_lrot": {
@@ -3267,7 +3270,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 158.12599999999998,
+      "x": 129.724,
       "y": 605.337,
       "z": 0
     },
@@ -3579,7 +3582,7 @@
     "__prefab": null,
     "_alignFlags": 9,
     "_target": null,
-    "_left": 376.126,
+    "_left": 347.724,
     "_right": 0,
     "_top": 4.663000000000011,
     "_bottom": 0,
