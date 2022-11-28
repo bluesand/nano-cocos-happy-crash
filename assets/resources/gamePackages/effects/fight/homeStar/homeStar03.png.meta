@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "ecaef33b-a20e-4bfd-bbde-c6ead82fc1ed",
+  "uuid": "acfb5962-ad5e-4ec5-b26d-d84fa362e789",
   "files": [
     ".png",
     ".json"
@@ -10,56 +10,21 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "ecaef33b-a20e-4bfd-bbde-c6ead82fc1ed@6c48a",
+      "uuid": "acfb5962-ad5e-4ec5-b26d-d84fa362e789@6c48a",
       "displayName": "homeStar03",
       "id": "6c48a",
       "name": "texture",
       "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
         "minfilter": "linear",
         "magfilter": "linear",
-        "wrapModeT": "clamp-to-edge",
-        "wrapModeS": "clamp-to-edge",
         "mipfilter": "none",
-        "imageUuidOrDatabaseUri": "ecaef33b-a20e-4bfd-bbde-c6ead82fc1ed",
         "anisotropy": 0,
-        "isUuid": true
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "acfb5962-ad5e-4ec5-b26d-d84fa362e789"
       },
       "ver": "1.0.21",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "f9941": {
-      "importer": "sprite-frame",
-      "uuid": "ecaef33b-a20e-4bfd-bbde-c6ead82fc1ed@f9941",
-      "displayName": "homeStar03",
-      "id": "f9941",
-      "name": "spriteFrame",
-      "userData": {
-        "importer": "sprite-frame",
-        "trimType": "auto",
-        "trimThreshold": 1,
-        "rotated": false,
-        "offsetX": 0,
-        "offsetY": 3.5,
-        "trimX": 4,
-        "trimY": 0,
-        "width": 60,
-        "height": 59,
-        "rawWidth": 68,
-        "rawHeight": 66,
-        "borderTop": 0,
-        "borderBottom": 0,
-        "borderLeft": 0,
-        "borderRight": 0,
-        "imageUuidOrDatabaseUri": "ecaef33b-a20e-4bfd-bbde-c6ead82fc1ed@6c48a",
-        "packable": true,
-        "isUuid": true,
-        "atlasUuid": ""
-      },
-      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -68,8 +33,8 @@
     }
   },
   "userData": {
-    "type": "sprite-frame",
     "hasAlpha": true,
-    "redirect": "ecaef33b-a20e-4bfd-bbde-c6ead82fc1ed@f9941"
+    "type": "texture",
+    "redirect": "acfb5962-ad5e-4ec5-b26d-d84fa362e789@6c48a"
   }
 }
