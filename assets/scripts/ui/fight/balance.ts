@@ -52,7 +52,7 @@ export class Balance extends Component {
         this.lbGold.string = (ret.gold).toString();
         this.lbLevel.string = ret.levelId;
         this.lbScore.string = ret.score;
-        this.lbHighest.string = i18n.t('fight.highest') + playerData.instance.getHighestScoreByLevel(ret.levelId);
+        this.lbHighest.string = playerData.instance.getHighestScoreByLevel(ret.levelId);
         this.soundStar = 0;
         let stars = playerData.instance.arrStars;
         this.arrStar[0].active = ret.star > 0;
